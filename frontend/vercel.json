@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://YOUR-BACKEND-URL.vercel.app/api/$1"
+      "destination": "https://ecomerce-website-bkend.vercel.app/"
     },
     {
       "source": "/((?!api/).*)",
